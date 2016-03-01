@@ -1,0 +1,7 @@
+These are programs for sending and receiving binary messages. Messages are being send by sound. 
+
+0 is 2200 Hz, 1 is 8800 Hz. Sending one bit lasts 0.5 second.
+
+Sender should be run with 3 arguments: senderID, receiverID (both natural numbers) and message containing only 0s and 1s.
+
+Receiver receives and displays the message.
